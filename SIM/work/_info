@@ -1,0 +1,184 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.01, Jan 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/SK Hynix BC501/Open RTL/Synchronous FIFO/SIM
+T_opt
+!s110 1705135514
+VJYCV?YKRb>TNmFmBjGl=g3
+04 20 4 work Asynchronous_FIFO_TB fast 0
+=1-5c61994b1e91-65a24d9a-1be-1574
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.1;71
+vAsynchronous_FIFO
+Z1 !s110 1705135498
+!i10b 1
+!s100 10;OB@l>UiB^IZZ^SH__X2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IzB8X=j?XCD^LBSmolZ<l>2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dD:/SK Hynix BC501/Open RTL/Asynchronous FIFO/SIM
+w1705134037
+8D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/Asynchronous_FIFO.v
+FD:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/Asynchronous_FIFO.v
+!i122 36
+L0 1 72
+Z5 OL;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1705135498.000000
+!s107 D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/Asynchronous_FIFO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/Asynchronous_FIFO.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@asynchronous_@f@i@f@o
+vAsynchronous_FIFO_TB
+R1
+!i10b 1
+!s100 Cz50eeCiLfj5YFQeZzM_G3
+R2
+Ii1Ji30G0^eTh;?<HSK2^]1
+R3
+R4
+w1705135477
+8D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/Asynchronous_FIFO_TB.v
+FD:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/Asynchronous_FIFO_TB.v
+!i122 37
+L0 2 85
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/Asynchronous_FIFO_TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/Asynchronous_FIFO_TB.v|
+!i113 0
+R7
+R0
+n@asynchronous_@f@i@f@o_@t@b
+vFIFO_RAM
+R1
+!i10b 1
+!s100 8c^d;8=i8UN=5k=oOl`Gg0
+R2
+IkiY_SlVeh1oX3lW56_2nC0
+R3
+R4
+w1703735285
+8D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/FIFO_RAM.v
+FD:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/FIFO_RAM.v
+!i122 38
+L0 1 30
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/FIFO_RAM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/FIFO_RAM.v|
+!i113 0
+R7
+R0
+n@f@i@f@o_@r@a@m
+vrptr_empty
+R1
+!i10b 1
+!s100 zmecMEI9KNQk9`eh[`kKe2
+R2
+I5WJ`32Ba4Al7AB25Y2RdC3
+R3
+R4
+w1705133938
+8D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/rptr_empty.v
+FD:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/rptr_empty.v
+!i122 39
+L0 1 44
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/rptr_empty.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/rptr_empty.v|
+!i113 0
+R7
+R0
+vsync_r2w
+R1
+!i10b 1
+!s100 AcafTjFhnDo`P8@o7L9eG0
+R2
+IM?>odl_R5;9_Qdk0Hn=hO0
+R3
+R4
+w1703746056
+8D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/sync_r2w.v
+FD:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/sync_r2w.v
+!i122 40
+Z8 L0 1 23
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/sync_r2w.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/sync_r2w.v|
+!i113 0
+R7
+R0
+vsync_w2r
+R1
+!i10b 1
+!s100 aAdaP@icdAIKF0^dn@k0O1
+R2
+I1o6?7P9^5]5^3nXS@:g6X1
+R3
+R4
+w1703746057
+8D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/sync_w2r.v
+FD:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/sync_w2r.v
+!i122 41
+R8
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/sync_w2r.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/sync_w2r.v|
+!i113 0
+R7
+R0
+vwptr_full
+!s110 1705135499
+!i10b 1
+!s100 ZO>N_V_W]QP`=le62[h5f3
+R2
+IbPZOM?WK2i]`b7fYmmDcT2
+R3
+R4
+w1703746055
+8D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/wptr_full.v
+FD:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/wptr_full.v
+!i122 42
+L0 1 41
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/wptr_full.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SK Hynix BC501/Open RTL/Asynchronous FIFO/RTL/wptr_full.v|
+!i113 0
+R7
+R0
